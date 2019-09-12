@@ -33,8 +33,8 @@ education:
   - course: PhD in Theoretical and Applied Mechanics
     institution: Northwestern University
     year: 2017
-  - course: BE in Micro-Electro-Mechanical System (MEMS) Engineering (with honors)
-    institution: Tsinghua University
+  - course: BE in Micro-Electro-Mechanical System Engineering
+    institution: Tsinghua University (China)
     year: 2012
 
 # Social/Academic Networking
@@ -75,5 +75,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Zeliang Liu is a senior research scientist at Livermore Software Technology Corporation. His research interests include 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zeliang Liu is a senior research scientist at Livermore Software Technology Corporation (LSTC). machine learning, multiscale mechanics, data-driven model reduction, with application in light-weight composite material and engineering material systems
+advanced material systems, materials informatics and design. large scale, high performance computing, computational mechanics and physics.
