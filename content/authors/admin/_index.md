@@ -73,4 +73,5 @@ user_groups:
 - Visitors
 ---
 I am a senior research scientist at Livermore Software Technology Corporation (LSTC), interested in the emerging area among machine learning, computational mechanics and material physics. I like to develop theories and methods to solve multiscale and multiphysics problems in materials design and advanced manufacturing. 
-My recent work on deep material network embedding physics into the building block of a network-based machine-learning model.
+
+My recent work on deep material network proposes a new way of embedding physics into the building block of a network-based machine-learning model. It is used to describe multisclale material systems with highly nonlinear behaviors such as plasticity and failure.
