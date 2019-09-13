@@ -42,9 +42,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=xgDYz7kAAAAJ&hl=en
@@ -75,5 +72,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Zeliang Liu is a senior research scientist at Livermore Software Technology Corporation (LSTC). machine learning, multiscale mechanics, data-driven model reduction, with application in light-weight composite material and engineering material systems
-advanced material systems, materials informatics and design. large scale, high performance computing, computational mechanics and physics.
+I am a senior research scientist at Livermore Software Technology Corporation (LSTC), interested in the emerging area among machine learning, computational mechanics and material physics. I like to develop theories and methods to solve multiscale and multiphysics problems in materials design and advanced manufacturing. 
+My recent work on deep material network embedding physics into the building block of a network-based machine-learning model.
