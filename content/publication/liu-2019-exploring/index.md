@@ -6,7 +6,7 @@ authors: ["Zeliang Liu", "C. T. Wu"]
 publication_types: ["2"]
 abstract: ""
 links:
-  --name: Arxiv
+  - name: Arxiv
     url: 'https://twitter.com/Twitter'
 featured: false
 publication: "*Journal of the Mechanics and Physics of Solids*"
