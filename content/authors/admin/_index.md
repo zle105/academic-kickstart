@@ -30,10 +30,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Theoretical and Applied Mechanics
+  - course: Ph.D. in Theoretical and Applied Mechanics
     institution: Northwestern University
     year: 2017
-  - course: BE in Micro-Electro-Mechanical System Engineering
+  - course: B.E. in Micro-Electro-Mechanical System Engineering
     institution: Tsinghua University (China)
     year: 2012
 
