@@ -1,9 +1,9 @@
 ---
-title: Short course on "Mechanistic Data-driven Multiscale Analysis and Applications"
-event: 13th World Congress in Computational Mechancis
-event_url: "http://www.wccm2018.org/18SC_006"
+title: Multiscale microstructural database for nonlinear material homogenization based on self-consistent clustering analysis
+event: Robert J. Melosh Competition 2017
+event_url: "https://cee.duke.edu/about/awards-honors/melosh-medal"
 
-location: New York City, NY, USA
+location: Duke University, Raleigh, NC, USA
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -11,12 +11,12 @@ location: New York City, NY, USA
 #  postcode: '94305'
 #  country: United States
 
-#summary: Short course offered by Prof. W.K. Liu, Prof. George Karniadakis, Dr. C.T. Wu and me. I mainly talked about deep materoal network and transfer learning for materials design.
+#summary:
 #abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-07-22"
+date: "2017-04-28"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -24,7 +24,7 @@ all_day: true
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: [Short course]
+tags: [Invited talk]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -56,4 +56,3 @@ url_video: ""
 # Enable math on this page?
 math: true
 ---
-Short course offered by Prof. W.K. Liu, Dr. C.T. Wu, Dr. Mark Fleming and me. I mainly talked about self-consistent clustering analysis (SCA) and some preliminary work on deep material network.
