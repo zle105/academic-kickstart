@@ -8,8 +8,7 @@ abstract: "A data-driven mechanistic modeling technique is applied to a system r
 
 links:
   - name: URL
-    url: "link.springer.com/article/10.1007/s11837-018-2868-2"
-
+    url: "https://link.springer.com/article/10.1007/s11837-018-2868-2"
 featured: false
 publication: "*JOM*"
 ---

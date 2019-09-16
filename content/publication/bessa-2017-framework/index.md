@@ -2,7 +2,7 @@
 title: "A framework for data-driven analysis of materials under uncertainty: Countering the curse of dimensionality"
 date: 2017-06-05
 publishDate: 2019-09-14T20:01:46.120579Z
-authors: ["MA Bessa", "R Bostanabad", "Zeliang Liu", "A Hu", "Daniel W Apley", "C Brinson", "Wei Chen", "Wing Kam Liu"]
+authors: ["Miguel Bessa", "Ramin Bostanabad", "Zeliang Liu", "Anqi Hu", "Daniel W Apley", "Cate Brinson", "Wei Chen", "Wing Kam Liu"]
 publication_types: ["2"]
 abstract: "A new data-driven computational framework is developed to assist in the design and modeling of new material systems and structures. The proposed framework integrates three general steps: (1) design of experiments, where the input variables describing material geometry (microstructure), phase properties and external conditions are sampled; (2) efficient computational analyses of each design sample, leading to the creation of a material response database; and (3) machine learning applied to this database to obtain a new design or response model.
 
@@ -12,7 +12,7 @@ links:
   - name: Preprint
     url: "preprint.pdf"
   - name: URL
-    url: "sciencedirect.com/science/article/pii/S0045782516314803"
+    url: "https://www.sciencedirect.com/science/article/pii/S0045782516314803"
 featured: true
 
 publication: "*Computer Methods in Applied Mechanics and Engineering*"
