@@ -1,5 +1,5 @@
 ---
-title: Data-driven modeling of heterogeneous materials: self-consistent homogenization for elasto-plastic behavior
+title: Data-driven modeling of heterogeneous materials - self-consistent homogenization for elasto-plastic behavior
 event: 12th World Congress on Computational Mechanics (WCCM XII)
 #event_url: "http://jacobsschool.ucsd.edu/emi2017/"
 
