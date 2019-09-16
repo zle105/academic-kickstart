@@ -10,7 +10,9 @@ In addition, the authors address the longstanding challenge of developing a data
 
 links:
   - name: preprint
-  - url: "./preprint.pdf"
+    url: "preprint.pdf"
+  - name: url
+    url: "https://www.sciencedirect.com/science/article/pii/S0045782516314803"
 featured: false
 
 publication: "*Computer Methods in Applied Mechanics and Engineering*"
