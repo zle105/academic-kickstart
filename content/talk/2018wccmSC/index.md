@@ -1,9 +1,9 @@
 ---
-title: Short course on "Machine learning data-Driven discretization theories, modeling and applications"
-event: 15th U.S. National Congress on Computational Mechanics (USNCCM15)
-event_url: "http://15.usnccm.org/sc15-005"
+title: Short course on "Mechanistic Data-driven Multiscale Analysis and Applications"
+event: 13th World Congress in Computational Mechancis
+event_url: "http://www.wccm2018.org/18SC_006"
 
-location: Austin, Texas, USA
+location: New York City, NY, USA
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -16,7 +16,7 @@ location: Austin, Texas, USA
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-07-28"
+date: "2019-07-22"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -32,12 +32,6 @@ featured: false
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
-
-links:
-- name: Slide-1
-  url: "6-ZL-Progresses in deep material network and materials design.pdf"
-- name: Slide-2
-  url: "7-ZL-Transfer learning in structure-property predictions.pdf"
 
 url_code: ""
 url_pdf: ""
@@ -62,4 +56,4 @@ url_video: ""
 # Enable math on this page?
 math: true
 ---
-Short course offered by Prof. W.K. Liu, Prof. George Karniadakis, Dr. C.T. Wu and me. I mainly talked about deep material network and transfer learning for materials design.
+Short course offered by Prof. W.K. Liu, Dr. C.T. Wu, Dr. Mark Fleming and me. I mainly talked about self-consistent clustering analysis (SCA) and some preliminary work on deep material network.
