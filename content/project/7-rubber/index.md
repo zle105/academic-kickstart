@@ -1,6 +1,7 @@
 ---
 title: Materials design of rubber composite
-tags: Viscoelasticity, hyperelasticity, large deformation
+summary: Viscoelasticity, hyperelasticity, large deformation
+tags:
 - Applications
 date: "2016-04-27T00:00:00Z"
 
