@@ -14,7 +14,7 @@ links:
     url: "preprint.pdf"
   - name: URL
     url: "https://www.sciencedirect.com/science/article/pii/S0045782518304729"
-url_cite: true
+url_cite = "cite.bib"
 featured: yes
 publication: "*Computer Methods in Applied Mechanics and Engineering*"
 ---
