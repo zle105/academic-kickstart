@@ -10,6 +10,7 @@ links:
   - name: Preprint
     url: "preprint.pdf"
 
+projects:[0-dmn]
 featured: yes
 publication: "*arXiv preprint arXiv:1908.04858*"
 ---
