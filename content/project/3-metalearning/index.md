@@ -1,6 +1,6 @@
 ---
-title: Deep material network for multiscale material modeling and design
-summary: A new way of embedding physics into the building block of a network-based machine-learning model for large-scale multiscale simulation and materials design.
+title: Transfer learning and model integration
+symmary: interpolation and extrapolation
 tags:
 - Methods
 date: "2016-04-27T00:00:00Z"

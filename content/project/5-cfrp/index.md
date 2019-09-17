@@ -1,5 +1,5 @@
 ---
-title: CFRP in light-weight vechicles
+title: Data-driven mat-libraries of CFRPs
 summary: Multiscale modeling of carbon fiber reinforced polymer composites.
 tags:
 - Applications
