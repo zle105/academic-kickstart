@@ -12,12 +12,12 @@ All the above functions are now covered by two new keywords in LS-DYNA®, *RVE_A
 "
 
 links:
-  - name: preprint
+  - name: Preprint
     url: preprint.pdf
 
 projects: ["4-rve"]
 
 featured: false
-publication: "*COMPLAS XIII: proceedings of the XIII International Conference on Computational Plasticity: fundamentals and applications*"
+publication: "*15th International LS-DYNA Users Conference*"
 ---
 
