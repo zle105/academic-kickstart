@@ -62,4 +62,4 @@ url_video: ""
 # Enable math on this page?
 math: true
 ---
-Short course offered by Prof. W.K. Liu, Prof. George Karniadakis, Dr. C.T. Wu and me. I mainly talked about deep material network and transfer learning for materials design.
+Short course offered by Prof. W.K. Liu, Prof. George Karniadakis, Dr. C.T. Wu and myself. I mainly talked about deep material network and transfer learning for materials design.
