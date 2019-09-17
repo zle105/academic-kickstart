@@ -15,6 +15,7 @@ links:
     url: "https://www.sciencedirect.com/science/article/pii/S0045782518304729"
 
 projects: ["0-dmn","4-rve"]
+projects: false
 
 featured: yes
 publication: "*Computer Methods in Applied Mechanics and Engineering*"
