@@ -1,5 +1,5 @@
 ---
-title: Transfer learning and model integration
+title: Transfer learning and database integration
 symmary: interpolation and extrapolation
 tags:
 - Methods
