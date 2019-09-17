@@ -8,6 +8,7 @@ abstract: "In this paper, a new data-driven multiscale material modeling method,
 
 By discovering a proper topological representation of RVE with fewer degrees of freedom, this intelligent material model is believed to open new possibilities of high-fidelity efficient concurrent simulations for a large-scale heterogeneous structure. It also provides a mechanistic understanding of structure–property relations across material length scales and enables the development of parameterized microstructural database for material design and manufacturing."
 
+projects: [0-dmn,4-rve]
 links:
   - name: Preprint
     url: "preprint.pdf"
