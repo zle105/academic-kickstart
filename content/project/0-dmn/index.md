@@ -1,6 +1,6 @@
 ---
 title: Deep material network
-summary: A new way of embedding physics into the building block of a network-based machine-learning model for large-scale multiscale simulation and materials design.
+summary: Network-based machine-learning model with physics-based building blocks and interpretable fitting parameters.
 tags:
 - Methods
 date: "2016-04-27T00:00:00Z"

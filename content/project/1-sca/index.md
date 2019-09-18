@@ -1,7 +1,6 @@
 ---
 title: Self-consistent clustering analysis
-summary: A efficient and accurate reduced-order for multiscale homogenization.
-tags:
+summary: Model reduction by grouping material points with similar responses.
 - Methods
 date: "2016-04-27T00:00:00Z"
 

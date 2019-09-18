@@ -1,6 +1,6 @@
 ---
 title: Micromechanics theories
-summary: Analityical and semi-analytical methods for fast predictions of material properties
+summary: Analityical and semi-analytical models for fast predictions of material properties
 tags:
 - Methods
 date: "2016-04-27T00:00:00Z"
