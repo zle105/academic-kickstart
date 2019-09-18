@@ -1,6 +1,7 @@
 ---
 title: Self-consistent clustering analysis
 summary: Model reduction by grouping material points with similar responses.
+tags:
 - Methods
 date: "2016-04-27T00:00:00Z"
 
@@ -28,6 +29,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Deep material network uses a collection of connected simple building blocks with analytical homogenization solutions to describe complex overall material responses. 
-By discovering a proper topological representation of RVE with fewer degrees of freedom, this intelligent material model is believed to open new possibilities of high-fidelity efficient concurrent simulations for a large-scale heterogeneous structure. 
-It also provides a mechanistic understanding of structure-property relations across material length scales and enables the development of parameterized microstructural database for material design and manufacturing.
+###Motivations
+
+Self-consistent clustering analysis (SCA) is a novel reduced order model (ROM) technique [[Liu et al. CMAME 2016](https://www.sciencedirect.com/science/article/pii/S0045782516301499)]. It enables a powerful tradeoff between efficiency and accuracy through synergistic exploitation of high-fidelity analysis and efficient mean field homogenization using a **data-clustering technique**. 
+
+SCA starts with an offline stage, in which a database is created by high-fidelity RVE analysis.  A data compression algorithm is then used to establish clustering groups with similar mechanistic features such as the local strain concentration factor. Material responses are assumed to be uniform in each cluster, and the interaction tensors between each pair of clusters are computed based on the Green’s function method. In the online stage, the discretized **Lippmann-Schwinger integral equation** is solved using a self-consistent scheme.
