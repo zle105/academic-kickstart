@@ -10,6 +10,8 @@ links:
   - name: URL
     url: "https://link.springer.com/chapter/10.1007/978-3-030-15119-5_8"
 
+projects: ["5-cfrp"]
+
 featured: false
 publication: "*International Workshop on Meshfree Methods for Partial Differential Equations*"
 ---
