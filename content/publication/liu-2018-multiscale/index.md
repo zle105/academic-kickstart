@@ -2,7 +2,7 @@
 title: "Multiscale simulations of material with heterogeneous structures based on representative volume element techniques"
 date: 2018-06-01
 publishDate: 2019-09-14T20:01:46.125703Z
-authors: ["Zeliang Liu", "C.T. Wu", "Bo Ren", "Wing Kam Liu", "Roger Grimes"]
+authors: ["Zeliang Liu*", "C.T. Wu", "Bo Ren", "Wing Kam Liu", "Roger Grimes"]
 publication_types: ["1"]
 abstract: "This paper presents a concurrent multiscale simulation framework for materials with heterogeneous structures (e.g. composite). This avoids the burdens of finding the macroscale phenomenological models and tedious calibration processes by directly establishing the connection between the microstructure and macro-response through computational homogenization. In the homogenization process, the model links every macroscopic integration point to a Representative Volume Element (RVE) of the microstructure, and macroscopic response is obtained by solving the RVE boundary value problem. Direct numerical simulation (DNS) techniques (e.g. FEM) for RVE analysis are capable of providing accurate high-fidelity material response data for complex phase morphology and behavior. Meanwhile, it is necessary to accelerate the RVE analysis using advanced model reduction techniques to enable efficient concurrent simulations.\n
 
