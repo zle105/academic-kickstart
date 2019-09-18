@@ -15,6 +15,8 @@ links:
     url: "https://www.sciencedirect.com/science/article/pii/S0045782516314803"
 featured: true
 
+projects: ["7-rubber"]
+
 publication: "*Computer Methods in Applied Mechanics and Engineering*"
 ---
 

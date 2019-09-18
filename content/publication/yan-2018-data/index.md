@@ -10,6 +10,8 @@ links:
   - name: URL
     url: "https://link.springer.com/article/10.1007/s00466-018-1539-z"
 
+projects: ["6-am"]
+
 featured: false
 publication: "*Computational Mechanics*"
 ---

@@ -12,7 +12,7 @@ links:
   - name: URL
     url: "https://www.sciencedirect.com/science/article/pii/S0022509616303003"
 
-projects: ["7-rubber"]
+projects: ["2-micromechanics"]
 
 featured: false
 publication: "*Journal of the Mechanics and Physics of Solids*"
