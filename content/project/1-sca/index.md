@@ -29,7 +29,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-###Motivations
+### Motivations
 
 Self-consistent clustering analysis (SCA) is a novel reduced order model (ROM) technique [[Liu et al. CMAME 2016](https://www.sciencedirect.com/science/article/pii/S0045782516301499)]. It enables a powerful tradeoff between efficiency and accuracy through synergistic exploitation of high-fidelity analysis and efficient mean field homogenization using a **data-clustering technique**. 
 
