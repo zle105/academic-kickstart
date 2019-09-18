@@ -12,6 +12,8 @@ links:
   - name: URL
     url: "https://www.sciencedirect.com/science/article/pii/S0022509618310688"
 
+projects: ["0-dmn"]
+
 featured: false
 publication: "*Journal of the Mechanics and Physics of Solids*"
 ---

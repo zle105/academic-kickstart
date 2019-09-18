@@ -10,6 +10,8 @@ links:
   - name: URL
     url: "https://link.springer.com/chapter/10.1007/978-3-319-60885-3_11"
 
+projects: ["6-am"]
+
 featured: false
 publication: "*Advances in computational plasticity*"
 ---

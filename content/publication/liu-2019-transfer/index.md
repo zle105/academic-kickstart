@@ -12,6 +12,8 @@ links:
   - name: URL
     url: "https://link.springer.com/article/10.1007/s00466-019-01704-4"
 
+projects: ["3-metalearning"]
+
 featured: false
 publication: "*Computational Mechanics*"
 ---

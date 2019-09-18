@@ -12,6 +12,8 @@ links:
   - name: URL
     url: "https://www.sciencedirect.com/science/article/pii/S0045782516301499"
 
+projects: ["1-sca"]
+
 featured: yes
 publication: "*Computer Methods in Applied Mechanics and Engineering*"
 ---
