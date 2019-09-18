@@ -1,6 +1,6 @@
 ---
 title: Transfer learning and database integration
-summary: "Learn to learn" and explore the possibilities of database interpolation and extrapolation.
+summary: Learn to learn and explore the possibilities of database interpolation and extrapolation.
 tags:
 - Methods
 date: "2016-04-27T00:00:00Z"
