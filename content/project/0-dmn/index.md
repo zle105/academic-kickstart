@@ -45,21 +45,13 @@ Deep material network (DMN) is proposed to address this problem by embedding mec
 
 Several equilibrium condition and kinematic constraints need to be satisfied in the building block. By applying the building block iteratively through the network, the microscale information propagates from the bottom layer to the top-layer node, which represents the macroscale material. The most basic formulation for a two-phase material with linear elasticity can be written as
 
+$$\underbrace{\bar{\textbf{C}}^{rve}}_\text{Output}=\textbf{f}\:( \overbrace{z^{j=1,2,...,2^{N-1}},\alpha_{i=1,2,...,N}^{k=1,2,...,2^{i-1}},\beta_i^k,\gamma_i^k}^\text{Fitting parameters};\: \underbrace{\textbf{C}^{p1},\textbf{C}^{p2}}_\text{Inputs})$$
 
-$$
-\underbrace{\bar{\textbf{C}}^{rve}}_\text{Output}=\textbf{f}\:( \overbrace{z^{j=1,2,...,2^{N-1}},\alpha_{i=1,2,...,N}^{k=1,2,...,2^{i-1}},\beta_i^k,\gamma_i^k}^\text{Fitting parameters};\: \underbrace{\textbf{C}^{p1},\textbf{C}^{p2}}_\text{Inputs})
-$$
-
-
-The fitting parameters in the model are activation $z$ and rotation angles $\alpha$, $\beta$, $\gamma$.  Since the two-layer building block is designed to have analytical solution, one can derive the derivatives of the output $\bar{\textbf{C}}^{rve}$ with respect to any fitting parameter and input. With **linear elastic data** obtained from direct numerical simulation or experiment, DMN can be effectively trained via stochastic gradient descent and model compression algorithms.
+The fitting parameters in the model are the activation $z$ and rotation angles $\alpha$, $\beta$, $\gamma$.  Since the two-layer building block is designed to have analytical solution, one can derive the derivative of the output $\bar{\textbf{C}}^{rve}$ with respect to any fitting parameter or input. With **linear elastic data** obtained from direct numerical simulation or experiment, DMN can be effectively trained via stochastic gradient descent and model compression algorithms.
 
 The trained network can be extrapolated to unknown material and loading spaces in the prediction stage. For nonlinear materials, the system is solved via Newton’s method. Each Newton iteration contains one forward homogenization process and one backward de-homogenization process, and the mechanical data in the forward and backward propagations are shown as below,
 
-
-$$
-\text{layer } N \xrightarrow[\text{homogenization}]{\text{forward } (\textbf{A},\delta\textbf{P})} \text{layer } 1 \text{ (macroscale)} \xrightarrow[\text{de-homogenization}]{\text{backward }(\Delta\textbf{F},\Delta\textbf{P})} \text{layer } N.
-$$
-
+$$\text{layer } N \xrightarrow[\text{homogenization}]{\text{forward } (\textbf{A},\delta\textbf{P})} \text{layer } 1 \text{ (macroscale)} \xrightarrow[\text{de-homogenization}]{\text{backward }(\Delta\textbf{F},\Delta\textbf{P})} \text{layer } N.$$
 
 Comparing to other data-driven methods, DMN has the following intriguing features: 
 
