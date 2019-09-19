@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   placement: 1
   focal_point: Smart
 
@@ -30,6 +30,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Deep material network uses a collection of connected simple building blocks with analytical homogenization solutions to describe complex overall material responses. 
-By discovering a proper topological representation of RVE with fewer degrees of freedom, this intelligent material model is believed to open new possibilities of high-fidelity efficient concurrent simulations for a large-scale heterogeneous structure. 
-It also provides a mechanistic understanding of structure-property relations across material length scales and enables the development of parameterized microstructural database for material design and manufacturing.
