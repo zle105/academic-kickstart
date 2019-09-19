@@ -10,6 +10,7 @@ external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
+  placement: 1
   focal_point: Smart
 
 #links:
