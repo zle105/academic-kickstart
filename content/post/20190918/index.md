@@ -6,8 +6,8 @@ math: true
 diagram: true
 markup: mmark
 image:
-  placement: 2
-  caption: 'Predictions for UD composite with interfacial failure'
+  placement: 1
+  caption: 'Interfacial failure analysis'
 ---
 
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
