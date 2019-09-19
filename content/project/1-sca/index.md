@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: SCA framework
   placement: 1
   focal_point: Smart
 
@@ -30,7 +30,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Self-consistent clustering analysis (SCA) is a novel reduced order model (ROM) technique [[Liu et al. CMAME 2016](https://www.sciencedirect.com/science/article/pii/S0045782516301499)]. It enables a powerful tradeoff between efficiency and accuracy through synergistic exploitation of high-fidelity analysis and efficient mean field homogenization using a **data-clustering technique**. 
+Self-consistent clustering analysis (SCA) is a reduced order model (ROM) technique first proposed in [[Liu et al. CMAME 2016](https://www.sciencedirect.com/science/article/pii/S0045782516301499)]. It enables a powerful tradeoff between efficiency and accuracy through synergistic exploitation of high-fidelity analysis and efficient mean field homogenization using a **data-clustering technique**. 
 
 SCA starts with an offline stage, in which a database is created by high-fidelity RVE analysis.  A data compression algorithm is then used to establish clustering groups with similar mechanistic features such as the local strain concentration tensor
 

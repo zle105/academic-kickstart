@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Interacting particles surrounded by interphase regions
   placement: 1
   focal_point: Smart
 
@@ -30,6 +30,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Deep material network uses a collection of connected simple building blocks with analytical homogenization solutions to describe complex overall material responses. 
-By discovering a proper topological representation of RVE with fewer degrees of freedom, this intelligent material model is believed to open new possibilities of high-fidelity efficient concurrent simulations for a large-scale heterogeneous structure. 
-It also provides a mechanistic understanding of structure-property relations across material length scales and enables the development of parameterized microstructural database for material design and manufacturing.
+Analytical micromechanics models have much lower computational cost than Finite Elements or Fast Fourier Transform-based methods. Thus, they are widely used in both academia and industry for fast predictions of multiscale material responses. 
+
+There are several categories of analytical micromechanics methods. The first category of micromechanics methods begins from the work of Hashin and Shrikman, who gave **the upper and lower bounds for the effective properties** of heterogeneous materials based on variational principles. Their closed-form solutions depend on the volume fraction of the inclusion or secondary phase but ignore other key factors, such as the inclusion shapes and distributions. In order to improve the accuracy and universality of this model, higher-order bounds have been proposed which incorporate statistical microstructural information, such as two-point and three-point correlation functions. 
+
+The second category of micromechanics methods dates back to the work of Eshelby, which gave the exact solution of the stress field for one ellipsoidal inclusion embedded in an infinite matrix. Several mean-field approaches were proposed based on **Eshelby's solution, such as the Mori-Tanaka method and self-consistent methods**. In general, approaches based on Eshelby's solution are usually restricted to regular inclusion shapes such as ellipses in 2-D and ellipsoids in 3-D.
+
+A part of my PhD thesis was on an extended analytical micromechanics method that handles **general overlapping inclusion geometries**, which typically appear in nano-particle reinforced polymer composites. Due to particle-matrix interaction, a nano-particle is surrounded by an interphase region, with dramatically different mechanical properties. This micromechanics model has been applied to inversely determine the interphase properties, which are usually hard to be directly measured from physical experiements.
