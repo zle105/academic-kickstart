@@ -12,6 +12,8 @@ links:
   - name: URL
     url: "https://link.springer.com/article/10.1007/s00466-015-1145-2"
 
+projects: ["2-micromechanics"]
+
 featured: false
 publication: "*Computational Mechanics*"
 ---

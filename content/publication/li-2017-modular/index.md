@@ -12,6 +12,8 @@ links:
   - name: URL
     url: "https://link.springer.com/article/10.1007/s00466-016-1346-3"
 
+projects: ["7-rubber"]
+
 featured: false
 publication: "*Computational Mechanics*"
 ---

@@ -1,5 +1,5 @@
 ---
-title: Short course on "Mechanistic Data-driven Multiscale Analysis and Applications"
+title: Short course on "Mechanistic data-driven multiscale analysis and applications"
 event: 13th World Congress in Computational Mechancis
 event_url: "http://www.wccm2018.org/18SC_006"
 
@@ -11,7 +11,7 @@ location: New York City, NY, USA
 #  postcode: '94305'
 #  country: United States
 
-#summary: Short course offered by Prof. W.K. Liu, Prof. George Karniadakis, Dr. C.T. Wu and me. I mainly talked about deep materoal network and transfer learning for materials design.
+#summary: Short course offered by Prof. W.K. Liu, Prof. George Karniadakis, Dr. C.T. Wu and myself. I mainly talked about deep materoal network and transfer learning for materials design.
 #abstract: ""
 
 # Talk start and end times.
@@ -56,4 +56,4 @@ url_video: ""
 # Enable math on this page?
 math: true
 ---
-Short course offered by Prof. W.K. Liu, Dr. C.T. Wu, Dr. Mark Fleming and me. I mainly talked about self-consistent clustering analysis (SCA) and some preliminary work on deep material network.
+Short course offered by Prof. W.K. Liu, Dr. C.T. Wu, Dr. Mark Fleming and myself. I mainly talked about self-consistent clustering analysis (SCA) and some preliminary work on deep material network.
