@@ -1,5 +1,5 @@
 ---
-title: Data-driven mat-libraries of CFRPs
+title: Data-driven material libraries of CFRPs
 summary: Multiscale modeling of carbon fiber reinforced polymer composites.
 tags:
 - Applications
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Multiscale CFRP composites
   placement: 1
   focal_point: Smart
 

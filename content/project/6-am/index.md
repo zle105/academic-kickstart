@@ -1,5 +1,5 @@
 ---
-title: P-S-P relationship in additive manufacturing
+title: Process-Structure-Property relationship in additive manufacturing
 summary: Process-structure-property
 tags:
 - Applications
