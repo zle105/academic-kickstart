@@ -30,6 +30,15 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Deep material network uses a collection of connected simple building blocks with analytical homogenization solutions to describe complex overall material responses. 
-By discovering a proper topological representation of RVE with fewer degrees of freedom, this intelligent material model is believed to open new possibilities of high-fidelity efficient concurrent simulations for a large-scale heterogeneous structure. 
-It also provides a mechanistic understanding of structure-property relations across material length scales and enables the development of parameterized microstructural database for material design and manufacturing.
+### Motivation
+
+In the past decade, a plethora of data-driven material modeling methods have been proposed based on existing machine learning techniques, such as deep neural network (DNN), recurrent neural network (RNN), Kriging methods, clustering analysis and proper orthogonal decomposition. Enabled by recent progresses in computer hardware systems (e.g. GPU) and open-source libraries (e.g. Tensorflow and PyTorch), neural network-based methods become the most popular ones due to its large model generalities (see the [universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem)). 
+
+However, one issue lots of us have encountered "the danger of extrapolation" of neural network. It means the learned model is credible only in the range defined by the training data. In material modeling, this issue become more significant since the data is usually limited, for instance, due to the high cost of conducting experiments. Below are two situations that typical appears in practice,
+
+{{< figure src="figure1.jpg" title="" lightbox="true" >}}
+
+
+
+
+
