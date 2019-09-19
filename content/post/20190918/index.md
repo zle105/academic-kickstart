@@ -167,7 +167,7 @@ renders as
 
 - [x] Write math example
 - [x] Write diagram example
-- [ ] Do something else
+- [x] Do something else
 
 ### Tables
 
