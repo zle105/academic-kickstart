@@ -1,6 +1,6 @@
 ---
 title: Process-Structure-Property relationship in additive manufacturing
-summary: Process-structure-property
+summary: Challenging multiscale and multiphysics problems at the intersection of mechanics, computational analysis, material science and data science.
 tags:
 - Applications
 date: "2016-04-27T00:00:00Z"
@@ -36,7 +36,7 @@ However, due to the intense and repeated localized energy input, the microstruct
 
 The research goal here is to accelerate the quantification of additively manufactured materials by developing multiscale mechanistic theories to understand the process-structure-property relationship with complex microstructures produced from AM fabrication processes. My current effort has been focused on the structure-property part - **modeling of polycrytalline materials with crystal plasticity**.
 
-[3D deep material network][A publication]({{< ref "/publication/liu-2019-exploring/index.md" >}}) has been applied to evaluate the effective properties of polycrystalline materials. Other than the online predictions for crystal plasticity, an interesting finding is that DMN can recover the hidden grain orientation information in the mechanical data, shown in the figure below.
+[3D deep material network]({{< ref "/publication/liu-2019-exploring/index.md" >}}) has been applied to evaluate the effective properties of polycrystalline materials. Other than the online predictions for crystal plasticity, an interesting finding is that DMN can recover the hidden grain orientation information in the mechanical data, shown in the figure below.
 
 {{< figure src="figure1.jpg" title="" lightbox="true" >}}
 
