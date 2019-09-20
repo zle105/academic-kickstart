@@ -45,4 +45,4 @@ LS-DYNA® RVE package integrates the whole RVE analysis processes, including pre
 - *RVE_ANALYSIS_FEM
 - *DATABASE_RVE
 
-Virtual material testing data can be generated using RVE analysis, and it will further serve as the offline/training data in **machine learning of multiscale material models**. More details can be found on [LSTC CMMG group website](https://www.lstc-cmmg.org/).
+Virtual material testing data can be generated using RVE analysis, and it will further serve as the offline/training data in **machine learning of multiscale material models**. More details can be found on [LSTC CMMG group website](https://www.lstc-cmmg.org/kw-rve/).
