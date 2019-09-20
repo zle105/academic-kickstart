@@ -14,6 +14,8 @@ role: Senior Research Scientist
 
 # Organizations/Affiliations
 organizations:
+- name: Computational and Multi-scale Mechanics Group
+  url: "https://www.lstc-cmmg.org/"
 - name: Livermore Software Technology Corporation (LSTC)
   url: ""
 
