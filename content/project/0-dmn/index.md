@@ -39,7 +39,7 @@ However, an issue that lots of us have encountered is **"the danger of extrapola
 
 {{< figure src="figure1.jpg" title="" lightbox="true" >}}
 
-Deep material network (DMN) is proposed to address these problems by embedding mechanics/physics into the machine learning model. The key ingredients of DMN are a network structure for capturing the complexity of microstructural interactions, and a simple **two-layer building block** for reproducing the material physics. 
+Deep material network (DMN) is proposed to address these problems by embedding mechanics/physics into the machine learning model. The key ingredients of DMN are a network structure for capturing the complexity of microstructural interactions, and a simple **two-layer building block for reproducing the material physics**. 
 
 {{< figure src="figure2.jpg" title="" lightbox="true" >}}
 
