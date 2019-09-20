@@ -39,15 +39,17 @@ However, an issue that lots of us have encountered is **"the danger of extrapola
 
 {{< figure src="figure1.jpg" title="" lightbox="true" >}}
 
-Deep material network (DMN) is proposed to address this problem by embedding mechanics/physics into the machine learning model. The key ingredients of DMN are a network structure for capturing the complexity of microstructural interactions, and a simple **two-layer building block** for reproducing the material physics. 
+Deep material network (DMN) is proposed to address these problems by embedding mechanics/physics into the machine learning model. The key ingredients of DMN are a network structure for capturing the complexity of microstructural interactions, and a simple **two-layer building block** for reproducing the material physics. 
 
 {{< figure src="figure2.jpg" title="" lightbox="true" >}}
 
-Several equilibrium condition and kinematic constraints need to be satisfied in the building block. By applying the building block iteratively through the network, the microscale information propagates from the bottom layer to the top-layer node, which represents the macroscale material. The most basic formulation for a two-phase material with linear elasticity can be written as
+Several equilibrium condition and kinematic constraints need to be satisfied in the building block. By applying the transformation function of building block iteratively through the network, the microscale information propagates from the bottom layer to the top-layer node, which represents the macroscale material. 
+
+**The basic formulation of the overall stiffness tensor** for a two-phase material with linear elasticity can be written as
 
 $$\underbrace{\bar{\textbf{C}}^{rve}}_\text{Output}=\textbf{f}\:( \overbrace{z^{j=1,2,...,2^{N-1}},\alpha_{i=1,2,...,N}^{k=1,2,...,2^{i-1}},\beta_i^k,\gamma_i^k}^\text{Fitting parameters};\: \underbrace{\textbf{C}^{p1},\textbf{C}^{p2}}_\text{Inputs})$$
 
-The fitting parameters in the model are the activation $z$ and rotation angles $\alpha$, $\beta$, $\gamma$.  Since the two-layer building block is designed to have analytical solution, one can derive the derivative of the output $\bar{\textbf{C}}^{rve}$ with respect to any fitting parameter or input. With **linear elastic data** obtained from direct numerical simulation or experiment, DMN can be effectively trained via stochastic gradient descent and model compression algorithms.
+The fitting parameters in the model are the activation $z$ and rotation angles $\alpha$, $\beta$, $\gamma$.  Since the two-layer building block is designed to have analytical solutions, one can derive the derivative of the output $\bar{\textbf{C}}^{rve}$ with respect to any fitting parameter or input. With **linear elastic data** obtained from direct numerical simulation or experiment, DMN can be effectively trained via stochastic gradient descent and model compression algorithms.
 
 The trained network can be extrapolated to **unknown material and loading spaces** in the prediction stage. For nonlinear materials, the system is solved via Newton’s method. Each Newton iteration contains one forward homogenization process and one backward de-homogenization process, and the mechanical data in the forward and backward propagations are shown as below,
 
@@ -59,7 +61,9 @@ Comparing to other data-driven methods, DMN has the following intriguing feature
 - Eliminating the need for extra calibration and micromechanics assumption;
 - Efficient online prediction without the danger of extrapolation
 
-DMN has been applied to addressing various RVE challenges, such as hyperelastic rubber composite under large deformation, polycrystalline materials with rate-dependent crystal plasticity and carbon fiber reinforced polymer (CFRP) composites. **The network structure with physically based parameters also provides a promising tool for materials design**. Recently, it has also been enriched with cohesive layers to handle materials with deformable interfaces, which can be used to apply to interfacial failure analysis.
+DMN has been applied to addressing various RVE challenges, such as hyperelastic rubber composite under large deformation, polycrystalline materials with rate-dependent crystal plasticity and carbon fiber reinforced polymer (CFRP) composites. **The network structure with physically based parameters also provides a promising tool for materials design**. 
+
+Recently, the original material network has been enriched with cohesive networks to handle materials with deformable interfaces. An important application is on the interfacial failure analysis in CFRP composites, as well as particle-reinforced rubber composites.
 
 
 
