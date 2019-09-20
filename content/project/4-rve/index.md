@@ -32,7 +32,7 @@ slides: example
 ---
 Materials are hierarchical in nature. The macroscopic material properties are strongly affected by the morphology and evolution of the microstructures, especially under extreme events with large material deformations and geometric nonlinearities. The **representative volume element (RVE)** techniques based on homogenization theory are a type of hierarchical multi-scale simulation methods offering the numerical constitutive relationship at the macroscopic point.
 
-LS-DYNA® RVE package integrates the whole RVE analysis processes, including preparation of boundary conditions, FE analysis of the boundary value problem and RVE homogenization. Some key features are 
+LS-DYNA® RVE package integrates the whole RVE analysis processes, including preparation of boundary conditions, FE analysis of the boundary value problem and RVE homogenization. **Some key features are** 
 
 - Arbitrary RVE meshes in 2D and 3D
 - Various types of boundary conditions (e.g. periodic and displacement BCs)
@@ -40,7 +40,7 @@ LS-DYNA® RVE package integrates the whole RVE analysis processes, including pre
 - Arbitrary loading conditions through control-node technique
 - SMP and MPP enabled
 
-All these functions are covered by two keywords:
+**All these functions are covered by two keywords:**
 
 - *RVE_ANALYSIS_FEM
 - *DATABASE_RVE

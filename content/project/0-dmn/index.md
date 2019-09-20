@@ -33,7 +33,7 @@ slides: example
 markup: mmark
 ---
 
-In the past decade, a plethora of data-driven material modeling methods have been proposed based on existing machine learning techniques, such as deep neural network (DNN), recurrent neural network (RNN), Kriging methods, clustering analysis and proper orthogonal decomposition. Enabled by recent progresses in computer hardware systems (e.g. GPU) and open-source libraries (e.g. Tensorflow and PyTorch), neural network-based methods become the most popular ones due to its large model generalities (see the [universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem)). 
+In the past decade, a plethora of data-driven material modeling methods have been proposed based on existing machine learning techniques, such as deep neural network (DNN), recurrent neural network (RNN), Kriging methods, clustering analysis and proper orthogonal decomposition. Enabled by recent progresses in **computer hardware systems (e.g. GPU) and open-source libraries (e.g. Tensorflow and PyTorch)**, neural network-based methods become the most popular ones due to its large model generalities (see the [universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem)). 
 
 However, an issue that lots of us have encountered is **"the danger of extrapolation"** of neural network. It means the learned model is credible only in the range defined by the training data. In material modeling, this issue become more significant since the data is usually limited, for instance, due to the high cost of conducting experiments. Below are two situations that typically appear in practice,
 
@@ -49,7 +49,7 @@ $$\underbrace{\bar{\textbf{C}}^{rve}}_\text{Output}=\textbf{f}\:( \overbrace{z^{
 
 The fitting parameters in the model are the activation $z$ and rotation angles $\alpha$, $\beta$, $\gamma$.  Since the two-layer building block is designed to have analytical solution, one can derive the derivative of the output $\bar{\textbf{C}}^{rve}$ with respect to any fitting parameter or input. With **linear elastic data** obtained from direct numerical simulation or experiment, DMN can be effectively trained via stochastic gradient descent and model compression algorithms.
 
-The trained network can be extrapolated to unknown material and loading spaces in the prediction stage. For nonlinear materials, the system is solved via Newton’s method. Each Newton iteration contains one forward homogenization process and one backward de-homogenization process, and the mechanical data in the forward and backward propagations are shown as below,
+The trained network can be extrapolated to **unknown material and loading spaces** in the prediction stage. For nonlinear materials, the system is solved via Newton’s method. Each Newton iteration contains one forward homogenization process and one backward de-homogenization process, and the mechanical data in the forward and backward propagations are shown as below,
 
 $$\text{layer } N \xrightarrow[\text{homogenization}]{\text{forward } (\textbf{A},\delta\textbf{P})} \text{layer } 1 \text{ (macroscale)} \xrightarrow[\text{de-homogenization}]{\text{backward }(\Delta\textbf{F},\Delta\textbf{P})} \text{layer } N.$$
 
@@ -59,7 +59,7 @@ Comparing to other data-driven methods, DMN has the following intriguing feature
 - Eliminating the need for extra calibration and micromechanics assumption;
 - Efficient online prediction without the danger of extrapolation
 
-DMN has been applied to addressing various RVE challenges, such as hyperelastic rubber composite under large deformation, polycrystalline materials with rate-dependent crystal plasticity and carbon fiber reinforced polymer (CFRP) composites. The network structure with physically based parameters also provides a promising tool for materials design. Recently, it has also been enriched with cohesive layers to handle materials with deformable interfaces, which can be used to apply to interfacial failure analysis.
+DMN has been applied to addressing various RVE challenges, such as hyperelastic rubber composite under large deformation, polycrystalline materials with rate-dependent crystal plasticity and carbon fiber reinforced polymer (CFRP) composites. **The network structure with physically based parameters also provides a promising tool for materials design**. Recently, it has also been enriched with cohesive layers to handle materials with deformable interfaces, which can be used to apply to interfacial failure analysis.
 
 
 
