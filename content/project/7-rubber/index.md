@@ -32,10 +32,17 @@ slides: example
 ---
 **"The most common matter is usually the hardest to be modeled"**. This ironic law applies to iron and water, and also to rubber composites, which have been widely adopted for improving the mechanical performance of neat polymers used in aerospace, automative, environment and energy industries. Nevertheless, **one of the most common use of rubber composite is in the tire manufacturing and related industries**, where nanoparticles (e.g. carbon black) are added into natural rubber to twisting the rolling resistance, wet-road grip and/or durability of tire. Despite decades of research, it is still very challenging to accurately predict the mechanical properties of rubber nanocomposites directly from their molecular constituents, mainly due to four reasons at different stage:
 
-- The effects of cross-linked chain network or free chains on the hyperelasticity and viscoelasticity of neat rubber still need a deeper understanding for consitutive modeling.
-- Interactions between fillers and rubber result in new interface and interphase regions which are difficult to be characterized by experiements.
-- Microstructural chatracterization and reconstruction of the rubber composites with complex filler morphologies are still under intense studies.
-- The predictions on the overall properties of the composite requires an accurate and efficient homogenization scheme, which can be consistently applied to any kind of microstructural morphology.
+1. The effects of cross-linked chain network or free chains on the hyperelasticity and viscoelasticity of neat rubber still need a deeper understanding for consitutive modeling.
 
-These modeling capabililies are essential to the materials design of rubber composites. For example, the addition of fillers changes tan(δ),  is related directly to the rolling resistance of tire. It has been recognized that 10% of fuel used in the average car is taken for overcoming the rolling resistance of tires. **By itself, the automobile rolling resistance is responsible for 4% of world- wide carbon dioxide emissions from fossil fuels**. 
+2. Interactions between fillers and rubber **result in new interface and interphase regions** which are difficult to be characterized by experiements.
+
+3. Microstructural chatracterization and reconstruction of the rubber composites with complex filler morphologies are still under intense study and development.
+
+4. The predictions on the overall properties of the composite requires an accurate and efficient homogenization scheme, which can be consistently applied to any kind of microstructural morphology.
+
+These modeling capabililies are essential to the materials design of rubber composites. For example, the addition of fillers changes tan(δ),  is related directly to the rolling resistance of tire. It has been recognized that 10% of fuel used in the average car is taken for overcoming the rolling resistance of tires. **By itself, the automobile rolling resistance is responsible for 4% of world-wide carbon dioxide emissions from fossil fuels**. 
+
+To address all these challenging issues, we are working closely with collaborators from both academia and industry . My current research and development mainly focus on part 1 and 4. 
+
+
 
