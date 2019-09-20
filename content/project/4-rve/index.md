@@ -1,6 +1,6 @@
 ---
 title: LS-DYNA RVE package
-summary: Integration of the whole RVE analysis processes, including microstructural reconstruction, preparation of boundary conditions, FE analysis of the boundary value problem and RVE homogenization.
+summary: Integration of microstructural reconstruction, mesh generation, finite elemnt analysis and RVE homogenization.
 tags:
 - Software
 date: "2016-04-27T00:00:00Z"

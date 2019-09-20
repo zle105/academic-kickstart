@@ -1,6 +1,6 @@
 ---
 title: Process-Structure-Property relationship in additive manufacturing
-summary: Challenging multiscale and multiphysics problems at the intersection of mechanics, computational analysis, material science and data science.
+summary: Challenging multiscale and multiphysics problems at the intersection of computational physics, material science and data science.
 tags:
 - Applications
 date: "2016-04-27T00:00:00Z"
