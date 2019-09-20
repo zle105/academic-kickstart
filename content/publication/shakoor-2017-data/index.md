@@ -1,5 +1,5 @@
 ---
-title: "A Data-Driven Multiscale Theory for Modeling Damage and Fracture of Composite Materials"
+title: "A data-driven multiscale theory for modeling damage and fracture of composite materials"
 date: 2019-06-20
 publishDate: 2019-09-14T20:01:46.119730Z
 authors: ["Modesar Shakoor", "Jiaying Gao", "Zeliang Liu", "Wing Kam Liu"]
