@@ -34,4 +34,11 @@ slides: example
 
 Carbon Fiber Reinforced Polymer (CFRP) composites have been identified as a key enabling technology to reduce energy consumption with a high strength-to-weight ratio of structural property for modern light-weight vehicle design. On the other hand, CFRP fabrication methods such as **injection molding, compression molding and thermoforming** require expensive facilities and equipment which cause high costs and long process cycles in comparison to well-established metal fabrication processes. 
 
-As a result, a framework that provides the knowledge of structure-property relationship in the manufacturing of CFRP products becomes the key to the success of green and light-weight vehicle design. 
+Therefore, a framework that provides the knowledge of structure-property relationship for CFRP products becomes the key to the success of green and light-weight vehicle design. A few types of CFRP composites of interest are listed below,
+
+- Unidirectional fiber composite
+- Woven composite
+- Short fiber composite
+- Long fiber composite
+
+A detailed study on unidirectional fiber composite and woven composite can be found in our [2019 JMPS paper]({{< ref "/publication/liu-2019-exploring/index.md" >}}). In particular, a three-scale material model is realized by the concatenation of the material network for each composite.
