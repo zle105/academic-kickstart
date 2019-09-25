@@ -32,7 +32,7 @@ slides: example
 markup: mmark
 ---
 
-**"The most common matter is usually the hardest to be modeled"**, learned from Prof. Wolverton's DFT class. This ironic law applies to steel, water, and also, rubber composites. Undoubtedly, **one of the most common use of rubber composite is in the tire manufacturing and related industries**, where nanoparticles (e.g. carbon black or silica) are added into natural rubber to twist the rolling resistance, wet-road grip and/or durability of tire. Despite decades of research, it is still very challenging to accurately predict the mechanical properties of rubber nanocomposites directly from their molecular constituents, mainly due to four reasons at different stage:
+**"The most common matter is usually the hardest to be modeled"**, learned from Prof. Wolverton's DFT class. This ironic law applies to steel, water, and also, rubber composites. Undoubtedly, **one of the most common use of rubber composite is in the tire manufacturing and related industries**, where nanoparticles (e.g. carbon black or silica) are added into natural rubber to twist the rolling resistance, wet-road grip and/or durability of tire. Despite decades of research, it is still very challenging to accurately predict the mechanical properties of rubber nanocomposites directly from their molecular constituents, mainly due to four reasons at different stages:
 
 1. The effects of cross-linked chain network or free chains on the hyperelasticity and viscoelasticity of pure rubber still need a deeper understanding for consitutive modeling.
 
