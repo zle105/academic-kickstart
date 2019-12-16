@@ -1,5 +1,5 @@
 ---
-title: WCCM 2020 Mini-symposium on "Advances of Machine Learning in Material Design, Modeling and Processing"
+title: WCCM 2020 MS226 on "Advances of Machine Learning in Material Design, Modeling and Processing"
 date: 2019-12-16
 publishDate: 2019-12-16T20:01:46.120579Z
 lastmod: 2019-12-16
