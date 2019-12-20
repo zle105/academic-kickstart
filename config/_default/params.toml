@@ -58,7 +58,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zlliu@lstc.com"
+email = "zeliang.liu@ansys.com"
 phone = "(925) 449-2500"
 address = "7374 Las Positas Rd, Livermore, California, 94551, USA"
 
