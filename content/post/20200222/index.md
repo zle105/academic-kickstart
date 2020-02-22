@@ -1,5 +1,5 @@
 ---
-title: Paper on DMN and interfacial physics published on CMAME
+title: Paper on DMN and interfacial physics published in CMAME
 date: 2020-02-21
 publishDate: 2020-02-21T20:01:46.120579Z
 lastmod: 2020-02-21
