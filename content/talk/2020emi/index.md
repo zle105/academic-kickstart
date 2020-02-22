@@ -1,5 +1,5 @@
 ---
-title: Deep material network and transfer learning: An application for multiscale short fiber composites
+title: Deep material network and transfer learning - An application for multiscale short fiber composites
 event: EMI 2020
 event_url: "https://www.emi-conference.org/"
 
