@@ -17,5 +17,5 @@ This paper develops a physics-based machine learning model based on the deep mat
 
 The extrapolation capability of the method to unknown spaces is demonstrated through the debonding analysis of a unidirectional fiber-reinforced composite, where the interface behavior is governed by **an irreversible softening mixed-mode cohesive law**. Its predictive accuracy is validated against the nonlinear DNS results, and the reduction in computational time is particularly significant.
 
-The preprint can be found [here]({{< ref "/publication/liu-2019-deepcohesive/index.md" >}}).
+The preprint can be found [here]({{< ref "/publication/liu-2020-deepcohesive/index.md" >}}).
 
