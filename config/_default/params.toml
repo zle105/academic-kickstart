@@ -174,7 +174,3 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
