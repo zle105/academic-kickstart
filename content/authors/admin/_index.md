@@ -72,10 +72,6 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["10px", "0", "10px", "0"]
 ---
 I am a senior research scientist at Livermore Software Technology in the emerging area among **computational mechanics**, **material physics**, and **machine learning**. My research is centered on developing theories and methods to solve challenging multiscale and multiphysics problems in modern materials engineering and advanced manufacturing. 
 
