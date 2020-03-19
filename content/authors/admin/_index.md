@@ -23,12 +23,11 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Computational Mechanics
-- Deep material networks
-- Data-driven model reduction
+- Multiscale and multiphysics analysis
 - Materials informatics and design
-- Multiscale and multiphysics
-- Additive manufacturing
+- Deep material network
+- Mechanistic machine learning
+- Advanced manufacturing
 
 education:
   courses:
