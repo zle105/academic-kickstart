@@ -26,7 +26,7 @@ interests:
 - Multiscale and multiphysics analysis
 - Materials informatics and design
 - Deep material network
-- Mechanistic machine learning
+- Physics-informed machine learning
 - Advanced manufacturing
 
 education:
