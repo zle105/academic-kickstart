@@ -12,6 +12,8 @@ image:
 
 For the first time, we coupled deep material network with macroscale finite element model in LS-DYNA for concurrent multiscale simulations.
 
+{{< figure src="s-rail.gif" title="Multiscale simulation with randomly distributed short fiber RVEs" lightbox="true" >}}
+
 The integrated data-driven framework is currently applied to the short fiber reinforced composite, and we are expecting more systems to be targeted.
 
 A nice collaborative work from the team!
