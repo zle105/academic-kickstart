@@ -12,5 +12,5 @@ image:
 
 I will present the team's work on "Intelligent multiscale simulation based on process-guided composite database" at the 2020 LS-DYNA virtual conference (https://lsdynaconference.com/agenda). 
 
-My talk will be on 9:05 am (PDT) within the composite session. 
+My talk will be on June 10, 9:05 AM (PDT) within the composite session. 
 

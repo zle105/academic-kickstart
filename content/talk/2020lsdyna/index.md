@@ -1,9 +1,9 @@
 ---
 title: Intelligent multiscale modeling of short fiber reinforced composites based on process-guided material database
 event: 16th LS-DYNA International Conference
-#event_url: "http://www.wccm2018.org/"
+event_url: "https://lsdynaconference.com/agenda"
 
-location: Detroit, MI, USA
+location: virtual event
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -16,7 +16,7 @@ location: Detroit, MI, USA
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-05-31"
+date: "2020-06-10"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
