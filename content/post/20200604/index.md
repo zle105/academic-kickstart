@@ -1,7 +1,7 @@
 ---
 title: Presenting (virtually) at the 2020 LS-DYNA conference
 date: 2020-06-04
-publishDate: 2020-06-04T20:01:46.120579Z
+publishDate: 2020-06-03T20:01:46.120579Z
 lastmod: 2020-06-04
 math: true
 diagram: true
