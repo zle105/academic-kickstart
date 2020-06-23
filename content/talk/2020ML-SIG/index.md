@@ -33,6 +33,10 @@ featured: false
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
+links:
+- name: Slide-1
+  url: "ML_SIG_ZL.pdf"
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
