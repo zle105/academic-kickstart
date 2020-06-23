@@ -10,6 +10,7 @@ authors:
 superuser: true
 
 # Role/position
+role: Mechanics
 role: Senior Research Scientist 
 
 # Organizations/Affiliations
