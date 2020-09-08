@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Software Dev Engineer
+role: Senior Software Dev Engineer - FEA
 
 # Organizations/Affiliations
 organizations:
