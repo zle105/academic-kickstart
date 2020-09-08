@@ -11,7 +11,7 @@ links:
   - name: URL
     url: "https://arxiv.org/abs/2008.13547"
 
-projects: ["3-metalearning"]
+projects: ["6-am"]
 
 featured: yes
 publication: "*arXiv-2003.09491*"
