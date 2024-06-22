@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Software Dev Engineer - FEA
+role: Staff Software Dev Engineer - FEA
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +73,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Senior Software Dev Engineer at Apple in the area among **computational mechanics**, **material physics**, and **machine learning**. My research interests are centered on developing theories and methods to solve challenging multiscale, multiphysics, and design problems in modern computer engineering and advanced manufacturing. 
+I am a Staff Software Dev Engineer at Apple in the area among **computational mechanics**, **material physics**, and **machine learning**. My research interests are centered on developing theories and methods to solve challenging multiscale, multiphysics, and design problems in modern computer engineering and advanced manufacturing. 
 
 Previously, I worked as a senior research scientist in the computational and multiscale mechanics group at ANSYS LST, where I led a team of PhD students and developers in scientific machine learning research and the development of LS-DYNA multiscale packages for various industrial material systems.
 
